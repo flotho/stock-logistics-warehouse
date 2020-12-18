@@ -15,3 +15,4 @@ class ProductTemplate(models.Model):
 #             res[template.id]['immediately_usable_qty'] +=\
 #                 res[template.id]['potential_qty']
 #         return res
+
